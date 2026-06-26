@@ -1,4 +1,4 @@
-# Hi there, I'm Phina Selahle 👋
+# Hi there, I'm Tshegofatso Selahle 👋
 
 ## 👩‍💻 About Me
 
