@@ -10,12 +10,12 @@ I'm continuously learning new technologies and expanding my skills through perso
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
-* 📊 Building interactive dashboards with **Power BI**
-* 🏠 Developing a **Smart Home Automation System**
-* 📈 Strengthening my skills in **Data Analytics** and **Business Intelligence**
-* 🤖 Exploring AI-powered applications and automation
+* Building interactive dashboards with **Power BI**
+* Developing a **Smart Home Automation System**
+* Strengthening my skills in **Data Analytics** and **Business Intelligence**
+* Exploring AI-powered applications and automation
 
 ---
 
@@ -56,7 +56,7 @@ I'm continuously learning new technologies and expanding my skills through perso
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Advanced Power BI
 * Machine Learning
@@ -66,7 +66,7 @@ I'm continuously learning new technologies and expanding my skills through perso
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 * Data Analytics
 * Business Intelligence
@@ -82,12 +82,12 @@ I'm continuously learning new technologies and expanding my skills through perso
 
 Here are some of the projects you'll find on my GitHub:
 
-* 📊 Edu Predict
-* 📈 SentiScope
-* 🐍 Caption Spark
-* 🌐 Ticketing system (AI Help desk)
-* 🏠 MediChat
-* 🗄️ SQL Database Projects
+* Edu Predict
+* SentiScope
+* Caption Spark
+* Ticketing system (AI Help desk)
+* MediChat
+* SQL Database Projects
 
 ---
 
